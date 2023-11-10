@@ -513,6 +513,8 @@
 .esmtprc
 .espressostorage
 .eunit
+xxl-job-admin
+run
 .event
 .evg.yml
 .example.com
