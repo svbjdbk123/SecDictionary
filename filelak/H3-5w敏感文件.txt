@@ -1,3 +1,4 @@
+admind/login
 springboot/admin
 webjars/springfox-swagger-ui
 v2/api-docs
