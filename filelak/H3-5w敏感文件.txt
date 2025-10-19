@@ -1,3 +1,5 @@
+manage/index.index/login
+manage/base.index/login
 admind/login
 springboot/admin
 webjars/springfox-swagger-ui
